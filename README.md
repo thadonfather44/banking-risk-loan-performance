@@ -1,7 +1,7 @@
 Credit Risk Analytics
 
 Overview
-This is an end to end Data Engineering/Analtics project built around a retail banking credit risk use case. The project covers relational database design, SQL analytical querying and interactive dashboard development using MySQL and Power BI.
+This is an end to end Data Engineering/Analytics project built around a retail banking credit risk use case. The project covers relational database design, SQL analytical querying and interactive dashboard development using MySQL and Power BI.
 The goal was to move from raw transactional data to actionable business intelligence that a credit risk team could use to make real lending decisions.
 
 Business Problem
