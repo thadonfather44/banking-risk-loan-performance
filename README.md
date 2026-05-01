@@ -1,4 +1,4 @@
-# banking-risk-loan-performance
+Credit Risk Analytics
 
 Overview
 This is an end to end Data Engineering/Analtics project built around a retail banking credit risk use case. The project covers relational database design, SQL analytical querying and interactive dashboard development using MySQL and Power BI.
